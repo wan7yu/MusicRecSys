@@ -39,9 +39,4 @@
     - 提交后运行git lfs ls-files 可以显示当前跟踪的文件列表
     - 将代码 push 到远程仓库后（git lfs push），LFS 跟踪的文件会以『Git LFS』的形式显示:
 	- clone 时 使用'git clone' 或 git lfs clone均可
-微信公众号：【搜索与推荐Wiki】
-<br>
-<div align="center"><img src="https://raw.githubusercontent.com/Thinkgamer/books/master/0%E3%80%81Picture/gzh.jpg" width="230"></div>
 
-注明：禁止用作商业用途
------
