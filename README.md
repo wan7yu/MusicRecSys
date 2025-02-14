@@ -1,9 +1,5 @@
 ## 说明
-> 本项目为《推荐系统开发实战》一书的演示案例，采用前后端分离实现，后端使用的是Python的Django框架，前端使用的是Vue，数据库为MySQL，禁止用做商业用户，如有需要联系我授权
-
-<center><font color=red>注：《推荐系统开发实战》已经在各大电商上线，感兴趣的朋友可以进行关注！</font></center>
-<center><img src="https://img-blog.csdnimg.cn/20190708234949217.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly90aGlua2dhbWVyLmJsb2cuY3Nkbi5uZXQ=,size_16,color_FFFFFF,t_70" width=300px /></center>
-
+> 本项目采用前后端分离实现，后端使用的是Python的Django框架，前端使用的是Vue，数据库为MySQL
 
 ## 实现思路
 - 利用网易云API获取部分数据
@@ -43,16 +39,6 @@
     - 提交后运行git lfs ls-files 可以显示当前跟踪的文件列表
     - 将代码 push 到远程仓库后（git lfs push），LFS 跟踪的文件会以『Git LFS』的形式显示:
 	- clone 时 使用'git clone' 或 git lfs clone均可
-
-## About Me
-ID：Thinkgamer
-
-Email：Thinkgamer@163.com
-
-微信：
-<br>
-<div align="center"><img src="https://raw.githubusercontent.com/Thinkgamer/books/master/0%E3%80%81Picture/wx.png" width="200" /></div>
-<br>
 微信公众号：【搜索与推荐Wiki】
 <br>
 <div align="center"><img src="https://raw.githubusercontent.com/Thinkgamer/books/master/0%E3%80%81Picture/gzh.jpg" width="230"></div>
